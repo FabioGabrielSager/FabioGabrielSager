@@ -15,7 +15,8 @@ Code	Details
             "Linux",
             "POO",
             "SQL",
-            "GIT"
+            "GIT",
+            "POSTMAN"
             ]
           }
 ```
