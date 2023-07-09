@@ -11,6 +11,12 @@ Code	Details
             "Habilidades": 
             [
             "C#",
+            "ASP.NET Core",
+            "Entity Framework Core",
+            "MediatR",
+            "Java",
+            "Spring Boot",
+            "Maven",
             "Python",
             "Linux",
             "POO",
