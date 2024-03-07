@@ -1,6 +1,6 @@
 ### Hola, te saluda Fabio! 😜
 
-Soy estudiante de Programación en la Universidad Tecnológica Nacional - Facultad Regional Córdoba con fuertes intereses y aspiraciones al desarrollo Back-End. 🤓
+Soy estudiante de Programación en la Universidad Tecnológica Nacional - Facultad Regional Córdoba y programador full stack de Córdoba, Argentina. 🤓
 
 ```
 Code	Details
@@ -8,21 +8,24 @@ Code	Details
         Response body
           {
             "nombre": "Fabio Gabriel Sager",
-            "Habilidades": 
-            [
-            "C#",
-            "ASP.NET Core",
-            "Entity Framework Core",
-            "MediatR",
-            "Java",
-            "Spring Boot",
-            "Maven",
-            "Python",
-            "Linux",
-            "POO",
-            "SQL",
-            "GIT",
-            "POSTMAN"
-            ]
+            "habilidades": {
+                stackPrincipal: [
+                        "Spring Boot",
+                        "Junit5",
+                        "SQL Server",
+                        "PostgreSQL",
+                        "Docker",
+                        "Angular",
+                        "Bootstrap",
+                        "GIT"
+                ],
+                otrasTeconologíasTrabajadas: [
+                        "C#",
+                        ".NET",
+                        ".NET Core",
+                        "Python",
+                        "JQuery"
+                ]
+             }
           }
 ```
