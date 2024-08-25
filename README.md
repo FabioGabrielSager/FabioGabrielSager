@@ -11,6 +11,8 @@ Code	Details
             "habilidades": {
                 stackPrincipal: [
                         "Spring Boot",
+                        "Spring Data JPA"
+                        "Spring Security",
                         "Junit5",
                         "SQL Server",
                         "PostgreSQL",
